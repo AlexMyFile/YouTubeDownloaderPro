@@ -1,6 +1,3 @@
-Ecco una descrizione dettagliata del suo utilizzo basata sul codice sorgente.
-
-  Descrizione Generale
   YouTube Downloader Pro è un'applicazione con interfaccia grafica (GUI) per scaricare video e audio da YouTube. È costruita utilizzando le librerie Python Tkinter e
   CustomTkinter per un aspetto moderno e supporta temi chiari e scuri. L'applicazione non si affida a librerie interne per il download, ma utilizza l'eseguibile esterno
   yt-dlp.exe, che può essere aggiornato direttamente dall'interfaccia.
