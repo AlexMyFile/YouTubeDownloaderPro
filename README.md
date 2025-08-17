@@ -69,10 +69,13 @@
   problemi, poiché YouTube cambia spesso il suo funzionamento.
 
 Teama Light
+
 <img width="844" height="678" alt="Tema Light" src="https://github.com/user-attachments/assets/299aa0c5-6a81-4fdc-8536-01c8d75695f8" />
 
 Tema Dark
+
 <img width="840" height="672" alt="Teama Dark" src="https://github.com/user-attachments/assets/4cc6c2db-4466-490f-8b72-972752fb5d32" />
+
 
 
 [YouTube Downloader Pro] è distribuito sotto la licenza GNU General Public License v3.
@@ -88,7 +91,6 @@ FFmpeg (ffmpeg.exe, ffplay.exe, ffprobe.exe) Rilasciato con licenza GPL v2 o suc
 Vedi il file [NOTICE-FFmpeg.txt]
 
 per dettagli: https://github.com/AlexMyFile/YouTubeDownloaderPro-Releases/blob/main/NOTICE-FFmpeg.txt
-
 
 Sorgenti
 Il codice sorgente corrispondente a FFmpeg è disponibile qui:
