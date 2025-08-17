@@ -73,3 +73,20 @@ Teama Light
 
 Tema Dark
 <img width="840" height="672" alt="Teama Dark" src="https://github.com/user-attachments/assets/4cc6c2db-4466-490f-8b72-972752fb5d32" />
+
+
+[YouTube Downloader Pro] è distribuito sotto la licenza GNU General Public License v3.
+
+Licenza
+Il codice di questo progetto è rilasciato con licenza GPLv3.
+Una copia della licenza è disponibile nel file LICENSE.
+Terze parti
+Questo pacchetto include:
+
+FFmpeg (ffmpeg.exe, ffplay.exe, ffprobe.exe)
+Rilasciato con licenza GPL v2 o successiva.
+Vedi il file [NOTICE-FFmpeg.txt] per dettagli.
+https://github.com/AlexMyFile/Convert_Video_to_Audio-Releases/blob/main/NOTICE-FFmpeg.txt
+Sorgenti
+Il codice sorgente corrispondente a FFmpeg è disponibile qui:
+👉 https://ffmpeg.org/download.html
