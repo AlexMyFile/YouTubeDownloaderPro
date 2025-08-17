@@ -1,9 +1,13 @@
-  Un'applicazione desktop sviluppata in Python con CustomTkinter, convertita in file eseguibile (.exe) con inclusi ffmpeg.exe, ffplay.exe e ffprobe.exe.
+# 🎵 Youtube Download Pro (Standalone .exe)
+  Un'applicazione desktop sviluppata in Python con CustomTkinter, 
+  convertita in file eseguibile.
+  
  👉 Funziona standalone su Windows 10/11 senza necessità di installare Python o altre librerie.
+ 👉 Su sistemi Gnu/Linux con Wine Installato non è stato testato.
   
   YouTube Downloader Pro è un'applicazione con interfaccia grafica (GUI) per scaricare video e audio da YouTube. È costruita utilizzando le librerie Python Tkinter e
   CustomTkinter per un aspetto moderno e supporta temi chiari e scuri. L'applicazione non si affida a librerie interne per il download, ma utilizza l'eseguibile esterno
-  yt-dlp.exe, che può essere aggiornato direttamente dall'interfaccia.
+  yt-dlp.exe (Per i dettagli leggere il file Licenze_delle_librerie_di_terze_parti.md), che può essere aggiornato direttamente dall'interfaccia.
 
   Funzionalità Principali e Utilizzo
   L'interfaccia è divisa in due sezioni principali: un pannello di controllo a sinistra e un'area di contenuto a destra.
@@ -77,20 +81,10 @@ Tema Dark
 <img width="840" height="672" alt="Teama Dark" src="https://github.com/user-attachments/assets/4cc6c2db-4466-490f-8b72-972752fb5d32" />
 
 -
-[YouTube Downloader Pro] è distribuito sotto la licenza  BSD-3-Clause license.
+**YouTube Downloader Pro è distribuito sotto la licenza  BSD-3-Clause license.**
 
 Licenza
 Il codice di questo progetto è rilasciato con licenza  BSD-3-Clause license.
 Una copia della licenza è disponibile nel file LICENSE.
-Terze parti
-Questo pacchetto include:
 
-FFmpeg (ffmpeg.exe, ffplay.exe, ffprobe.exe) Rilasciato con licenza GPL v2 o successiva.
-
-Vedi il file [NOTICE-FFmpeg.txt]
-
-per dettagli: https://github.com/AlexMyFile/YouTubeDownloaderPro-Releases/blob/main/NOTICE-FFmpeg.txt
-
-Sorgenti
-Il codice sorgente corrispondente a FFmpeg è disponibile qui:
-👉 https://ffmpeg.org/download.html
+**Autore: Alex Lignola - Anno 2025**
