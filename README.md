@@ -76,12 +76,11 @@ Tema Dark
 
 <img width="840" height="672" alt="Teama Dark" src="https://github.com/user-attachments/assets/4cc6c2db-4466-490f-8b72-972752fb5d32" />
 
-
-
-[YouTube Downloader Pro] è distribuito sotto la licenza GNU General Public License v3.
+-
+[YouTube Downloader Pro] è distribuito sotto la licenza  BSD-3-Clause license.
 
 Licenza
-Il codice di questo progetto è rilasciato con licenza GPLv3.
+Il codice di questo progetto è rilasciato con licenza  BSD-3-Clause license.
 Una copia della licenza è disponibile nel file LICENSE.
 Terze parti
 Questo pacchetto include:
