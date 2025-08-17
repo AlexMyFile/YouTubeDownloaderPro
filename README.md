@@ -86,7 +86,7 @@ Questo pacchetto include:
 FFmpeg (ffmpeg.exe, ffplay.exe, ffprobe.exe)
 Rilasciato con licenza GPL v2 o successiva.
 Vedi il file [NOTICE-FFmpeg.txt] per dettagli.
-https://github.com/AlexMyFile/Convert_Video_to_Audio-Releases/blob/main/NOTICE-FFmpeg.txt
+https://github.com/AlexMyFile/YouTubeDownloaderPro-Releases/blob/main/NOTICE-FFmpeg.txt
 Sorgenti
 Il codice sorgente corrispondente a FFmpeg è disponibile qui:
 👉 https://ffmpeg.org/download.html
