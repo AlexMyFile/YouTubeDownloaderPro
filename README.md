@@ -1,8 +1,11 @@
 # 🎵 Youtube Download Pro (Standalone .exe)
   Un'applicazione desktop sviluppata in Python con CustomTkinter, 
   convertita in file eseguibile.
-⚠️ **Nota**: questo repository non contiene i sorgenti. I file `.exe` sono stati compilati a partire dal progetto originale.
+  
+ ⚠️ **Nota**: questo repository non contiene i sorgenti. I file `.exe` sono stati compilati a partire dal progetto originale.
+ 
  👉 Funziona standalone su Windows 10/11 senza necessità di installare Python o altre librerie.
+ 
  👉 Su sistemi Gnu/Linux con Wine Installato non è stato testato.
   
   YouTube Downloader Pro è un'applicazione con interfaccia grafica (GUI) per scaricare video e audio da YouTube. È costruita utilizzando le librerie Python Tkinter e
